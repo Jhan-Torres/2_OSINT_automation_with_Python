@@ -1,0 +1,21 @@
+# Environment & Secrets (Keys)
+.env
+.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*\$py.class
+venv/
+.venv/
+
+# Generated Output Files / Reports
+*.json
+*.pdf
+
+# OS & Editor temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
