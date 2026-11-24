@@ -1,4 +1,4 @@
-##Automated OSINT & Target Profiling Tool
+## Automated OSINT & Target Profiling Tool
 
 A modular command-line interface (CLI) tool developed in **Python 3** to automate open-source intelligence (**OSINT**) gathering and infrastructure profiling for target domains and IP addresses.
 
